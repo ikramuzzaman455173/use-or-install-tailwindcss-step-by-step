@@ -1,3 +1,4 @@
+<h1 align="center">Custom Tailwind Css Install Using PostCss:)</h1>
 Step 1: Install the required dependencies
 ----------------------------------------
 Run the following command to install the necessary dependencies:
@@ -47,7 +48,8 @@ Open your `index.css` file and add the following lines at the beginning of the f
 @tailwind components;
 @tailwind utilities;
 ```
-Sure! If you want to use the Tailwind CSS CLI to build your CSS file, follow these additional steps:
+
+<h1 align="center">Custom Tailwind Css Install Using TailwindCss Cli:)</h1>
 
 Step 1: Install Tailwind CSS CLI
 -------------------------------
