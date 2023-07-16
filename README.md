@@ -1,4 +1,4 @@
-<h1 align="center">Custom Tailwind Css Install Using PostCss:)</h1>
+<h1 align="center">`Not Used Production` Custom Tailwind Css Install Using PostCss:)</h1>
 Step 1: Install the required dependencies
 ----------------------------------------
 Run the following command to install the necessary dependencies:
@@ -49,41 +49,7 @@ Open your `index.css` file and add the following lines at the beginning of the f
 @tailwind utilities;
 ```
 
-<h1 align="center">Custom Tailwind Css Install Using TailwindCss Cli:)</h1>
-
-Step 1: Install Tailwind CSS CLI
--------------------------------
-Run the following command to install the Tailwind CSS CLI globally:
-```
-npm install -g tailwindcss
-```
-
-Step 2: Create a Tailwind CSS configuration file
------------------------------------------------
-Run the following command to generate a Tailwind CSS configuration file:
-```
-npx tailwindcss init
-```
-
-Step 3: Customize the Tailwind CSS configuration (optional)
-----------------------------------------------------------
-Open the generated `tailwind.config.js` file and customize it according to your needs. You can add custom colors, extend the default theme, or modify various other aspects of Tailwind CSS.
-
-Step 4: Create your CSS file using Tailwind CLI
-----------------------------------------------
-Run the following command to create your CSS file using the Tailwind CSS CLI:
-```
-npx tailwindcss build ./src/index.css -o ./dist/styles.css
-```
-This command will process the `index.css` file and output the compiled CSS to `./dist/styles.css`.
-
-Step 5: Link the compiled CSS file in your HTML file
---------------------------------------------------
-Update your `index.html` file to include the compiled CSS file. Add the following line within the `<head>` section of your HTML file:
-```html
-<link rel="stylesheet" href="./dist/styles.css">
-```
-
+<h1 align="center">`Used Production` Custom Tailwind Css Install Using TailwindCss Cli:)</h1>
 
 Step 1: Install Tailwind CSS CLI
 -------------------------------
